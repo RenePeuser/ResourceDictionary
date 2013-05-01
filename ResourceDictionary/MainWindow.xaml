@@ -1,0 +1,9 @@
+﻿<Window x:Class="ResourceDictionary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="84" Margin="102,45,0,0" VerticalAlignment="Top" Width="289" Click="Button_Click"/>
+
+    </Grid>
+</Window>

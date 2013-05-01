@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+    
+    <s:String x:Key="Key1">Key 1</s:String>
+    <s:String x:Key="Key2">Key 2</s:String>
+    <s:String x:Key="Key3">Key 3</s:String>
+    <s:String x:Key="Key4">Key 4</s:String>
+    <s:String x:Key="Key5">Key 5</s:String>
+    <s:String x:Key="Key6">Key 6</s:String>
+    <s:String x:Key="Key7">Key 7</s:String>
+    <s:String x:Key="Key8">Key 8</s:String>
+    <s:String x:Key="Key9">Key 9</s:String>
+    <s:String x:Key="Key10">Key 10</s:String>
+
+</ResourceDictionary>
